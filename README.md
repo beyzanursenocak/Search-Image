@@ -1,4 +1,4 @@
-Live Code: https://searchh-imagess.netlify.app/
+LIVE Link: https://searchh-imagess.netlify.app/
 
 # Getting Started with Create React App
 
